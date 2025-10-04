@@ -1,0 +1,5 @@
+projekt/
+│
+├─ app.py
+└─ static/
+   └─ image-2.png
